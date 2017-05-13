@@ -1,2 +1,3 @@
 Hola, ¿Qué haces? :) bla,bla,bla - Ahora, vamos a referenciar
 La idea es hacer un commit para ver qué hace codeclimate…
+Pues esto no ha hecho nada… Voy a probar con un PR
